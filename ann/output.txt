@@ -1,0 +1,22 @@
+TrainingCycle: 1000  Error = 0.00229
+
+  Training Pattern: 0
+  Input 1 1 1 1 1 1 0   Target 0 0 0 0   Output 0.01265 0.00865 0.00905 0.01465 
+  Training Pattern: 1
+  Input 0 1 1 0 0 0 0   Target 0 0 0 1   Output 0.00475 0.01136 0.01100 0.98708 
+  Training Pattern: 2
+  Input 1 1 0 1 1 0 1   Target 0 0 1 0   Output 0.01253 0.00292 0.99615 0.00584 
+  Training Pattern: 3
+  Input 1 1 1 1 0 0 1   Target 0 0 1 1   Output 0.00556 0.01309 0.99245 0.99550 
+  Training Pattern: 4
+  Input 0 1 1 0 0 1 1   Target 0 1 0 0   Output 0.00923 0.99201 0.00899 0.01059 
+  Training Pattern: 5
+  Input 1 0 1 1 0 1 1   Target 0 1 0 1   Output 0.00880 0.98931 0.01177 0.99108 
+  Training Pattern: 6
+  Input 0 0 1 1 1 1 1   Target 0 1 1 0   Output 0.00048 0.99001 0.98475 0.00011 
+  Training Pattern: 7
+  Input 1 1 1 0 0 0 0   Target 0 1 1 1   Output 0.00044 0.98320 0.98459 0.99996 
+  Training Pattern: 8
+  Input 1 1 1 1 1 1 1   Target 1 0 0 0   Output 0.97590 0.00651 0.01375 0.01085 
+  Training Pattern: 9
+  Input 1 1 1 0 0 1 1   Target 1 0 0 1   Output 0.98774 0.01538 0.00974 0.99015 
